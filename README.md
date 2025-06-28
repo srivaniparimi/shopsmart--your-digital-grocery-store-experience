@@ -19,3 +19,4 @@ Tech Stack
 - Database:* MongoDB / PostgreSQL / MySQL  
 - Authentication:* JWT / OAuth2  
 - Deployment:* Vercel / Netlify / Heroku / Docker
+                                                                                                            SRIVANI PARIMI
